@@ -1,3 +1,16 @@
+== Hi girls,
+Had some problems at the beginning, because I updated my Mac OS to Mountain Lion.
+When it tried to fetch new gems, it didn't find some commands, like 'make', so it stopped.
+If you experience simmular problems, you have to
+1. Install the newest version of Xcode on your Mac
+2. In the new Xcode's preferences, there you find Downloads, where you should install the 'Command Line Tools'
+
+During I set up the framework, I followed the first steps of the Hartl Tutorial.
+Thought, it's easier for most of us, if we have something to lean on.
+
+Dani 
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
