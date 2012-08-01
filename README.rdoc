@@ -10,6 +10,11 @@ Thought, it's easier for most of us, if we have something to lean on.
 
 Dani 
 
+== USED VERSIONS
+
+Rails 3.2.7
+Ruby 1.9.3p194
+
 
 == Welcome to Rails
 
